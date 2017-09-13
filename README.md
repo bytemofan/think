@@ -1,5 +1,39 @@
-# think
+# Thinking
 
-think in fe
+Thinking in FE！
 
 一些思考或总结（随便写写）
+
+![](http://copper-sculpture.com/htdocs/1/5/dladmin/resource/product/1e9dd7e17869ec5288f6d0f07f697093.jpg)
+
+## 翻译
+
+- [16个有用的CSS技巧](https://github.com/Mmzer/think/issues/7)
+- [CSS居中:完全指南](https://github.com/Mmzer/think/issues/8)
+- [ CSS中的随机数 | CSS技巧](https://github.com/Mmzer/think/issues/9)
+- [使用Flow编辑和发布JavaScript模块](https://github.com/Mmzer/think/issues/11)
+
+## JavaScript
+
+- [JavaScript语言核心](https://github.com/Mmzer/think/issues/17)
+- [Ajax跨域时，如何带上目标地址需要的cookie？](https://github.com/Mmzer/think/issues/16)
+
+## React
+
+- [Redux是什么？](https://github.com/Mmzer/think/issues/6)
+- [React组件生命周期](https://github.com/Mmzer/think/issues/12)
+- [React Native](https://github.com/Mmzer/think/issues/14)
+
+## CSS
+
+- [理解line-height、vertical-align、font-size、em和baseline的关系](https://github.com/Mmzer/think/issues/18)
+- [GPU为什么能加速动画性能？](https://github.com/Mmzer/think/issues/15)
+- [一些常见问题以及解决方案](https://github.com/Mmzer/think/issues/3)
+- [CSS不常用属性收集](https://github.com/Mmzer/think/issues/2)
+
+## 其它
+
+- [微信小程序知识图谱](https://github.com/Mmzer/think/issues/19)
+- [常用的sublime text插件](https://github.com/Mmzer/think/issues/5)
+- [思维方式](https://github.com/Mmzer/think/issues/4)
+- [各种编码规范（尽量中文版orz...）](https://github.com/Mmzer/think/issues/1)
