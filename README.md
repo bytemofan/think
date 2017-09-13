@@ -5,7 +5,7 @@ Thinking in FE！
 一些思考或总结（随便写写）
 
 <p align="center">
-  <img src="http://copper-sculpture.com/htdocs/1/5/dladmin/resource/product/1e9dd7e17869ec5288f6d0f07f697093.jpg" />
+  <img src="https://user-images.githubusercontent.com/9158841/30367628-4bb4718e-98a1-11e7-84c1-eb0b7e77c79a.png" />
 </p>
 
 ## 翻译
