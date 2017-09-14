@@ -1,9 +1,5 @@
 # Thinking
 
-Thinking in FE！
-
-一些思考或总结（随便写写）
-
 ![30367628-4bb4718e-98a1-11e7-84c1-eb0b7e77c79a](https://user-images.githubusercontent.com/9158841/30367948-4bba0116-98a2-11e7-8414-bf359e7ac954.png)
 
 
