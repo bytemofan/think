@@ -2,9 +2,10 @@
 
 ![30367628-4bb4718e-98a1-11e7-84c1-eb0b7e77c79a](https://user-images.githubusercontent.com/9158841/30367948-4bba0116-98a2-11e7-8414-bf359e7ac954.png)
 
-## 前端工程化
+## HTTP
 - [前端使用nginx使用札记](https://github.com/Mmzer/think/issues/20)
 - [前端开发过程中跨域问题解决方案](https://github.com/Mmzer/think/issues/21)
+- [详解Content-Type](https://github.com/Mmzer/think/issues/22)
 
 ## 翻译
 
