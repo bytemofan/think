@@ -3,7 +3,7 @@
 ![30367628-4bb4718e-98a1-11e7-84c1-eb0b7e77c79a](https://user-images.githubusercontent.com/9158841/30367948-4bba0116-98a2-11e7-8414-bf359e7ac954.png)
 
 ## 打包构建
-- [webpack打包多页面-配置过程](https://github.com/Mmzer/think/issues/23)
+- [修改webpack配置支持打包多页面](https://github.com/Mmzer/think/issues/23)
 
 ## HTTP
 - [前端使用nginx使用札记](https://github.com/Mmzer/think/issues/20)
