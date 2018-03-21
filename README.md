@@ -41,3 +41,4 @@
 - [常用的sublime text插件](https://github.com/Mmzer/think/issues/5)
 - [思维方式](https://github.com/Mmzer/think/issues/4)
 - [各种编码规范（尽量中文版orz...）](https://github.com/Mmzer/think/issues/1)
+- [结构性思维](https://github.com/Mmzer/think/issues/24)
