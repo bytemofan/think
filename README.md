@@ -41,7 +41,7 @@
 
 ## 设计
 
-- [sketch使用技巧]()
+- [sketch使用技巧](https://github.com/Mmzer/think/blob/master/sketch%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/sketch%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.md)
 
 ## 其它
 
