@@ -19,11 +19,13 @@
 
 ## JavaScript
 
+- [console.log()输出时是同步还是异步的问题](https://github.com/Mmzer/think/issues/30)
 - [JavaScript语言核心](https://github.com/Mmzer/think/issues/17)
 - [Ajax跨域时，如何带上目标地址需要的cookie？](https://github.com/Mmzer/think/issues/16)
 
 ## React
 
+- [React源码（v15.0.3）解读-收获](https://github.com/Mmzer/think/issues/29)
 - [Redux是什么？](https://github.com/Mmzer/think/issues/6)
 - [React组件生命周期](https://github.com/Mmzer/think/issues/12)
 - [React Native](https://github.com/Mmzer/think/issues/14)
@@ -38,6 +40,7 @@
 ## NodeJS
 
 - [压力测试相关指标](https://github.com/Mmzer/think/issues/26)
+- [redis入门](https://github.com/Mmzer/think/issues/28)
 
 ## 设计
 
