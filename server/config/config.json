@@ -1,0 +1,8 @@
+{
+    "port":8080,
+    "proxyURL":"http://localhost:9000",
+    "milProxyURL": "http://localhost:9000",
+    "siteBase": "http://localhost:9000",
+    "serverBase": "http://localhost:9000",
+    "sentryUrl": "http://localhost:9000"
+}
