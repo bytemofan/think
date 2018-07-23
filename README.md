@@ -32,7 +32,7 @@
 
 ## Vue
 
-- [Vue超快速学习](https://github.com/Mmzer/think/issues/31)
+- [Vue超快速学习](https://github.com/Mmzer/think/issues/33)
 
 ## CSS
 
